@@ -1,6 +1,8 @@
 # OPTICS demo
 More about [OPTICS](https://en.wikipedia.org/wiki/OPTICS_algorithm) clustering.
 
+![x](optics.png)
+
 ## Installation
 
 * Install `pyclustering`:
